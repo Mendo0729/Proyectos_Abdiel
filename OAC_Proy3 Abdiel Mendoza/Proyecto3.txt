@@ -1,0 +1,25 @@
+     Universidad Tecnológica de Panamá
+Facultad de Ingeniería en Sistemas Computacionales
+Organización y Arquitectura de computadoras
+                1LS132
+           Nombre y Apellido 
+              Menú A.L.U.
+          II semestre 2024
+
+              MENU ALU
+ARIMETICAS
+ 1. SUMA  2. MULTIPLICACION 3. RESTA  4. DIVISION  5. RESIDUO
+LOGICAS
+ 6. AND   7. OR      8. XOR
+BITWISE
+ 9. SHIFT -- > 10. SHIFT < -- 11. ROTATION -- > 12. ROTATION < --
+COMPARACION
+13. MENOR   14. MAYOR   15. IGUAL   16. NO IGUAL
+    
+                  Teclee una opción:
+
+
+Teclee el primer Dato:
+Teclee el segundo Dato:
+Resultado:
+
